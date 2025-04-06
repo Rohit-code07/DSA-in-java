@@ -70,9 +70,9 @@
 <p align="center">
 
 
-<a href="https://www.linkedin.com/in/rohit-verma-15b975304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rohit-verma-15b975304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rohit%20Verma-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/rohitmi077/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i_disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/rohitmi077/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i_Rohitmi077-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:rohitgcode20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rohitgcode20@gmail.com-blue?style=flat-square&logo=gmail"></a>
 

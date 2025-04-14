@@ -49,7 +49,7 @@
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://camo.githubusercontent.com/02f08723d58c91980bf8604fcccb1936b4e819f5e91b1f1354c2c5015258f434/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686976616d303131302673686f775f69636f6e733d74727565" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 

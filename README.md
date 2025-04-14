@@ -49,7 +49,6 @@
 
 <br/>
 
-<img src="" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 

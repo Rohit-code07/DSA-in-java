@@ -1,0 +1,14 @@
+Q.add(1);
+    //     Q.add(2);
+    //     Q.add(3);
+    //     Q.add(4);
+    //     Q.add(5);
+    //     Q.add(6);
+    //     Q.add(7);
+    //     Q.add(8);
+    //     Q.display();
+    //     Q.pop();
+    //   //System.out.println(Q.peek());
+    //    Q.display();
+    //    Q.size();
+    //    Q.peek();

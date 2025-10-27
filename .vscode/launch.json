@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "formingLINKEDLIST",
+            "request": "launch",
+            "mainClass": "formingLINKEDLIST",
+            "projectName": "java_4d7ab19a"
+        },
+        {
+            "type": "java",
+            "name": "functionoflinkedlist",
+            "request": "launch",
+            "mainClass": "functionoflinkedlist",
+            "projectName": "java_4d7ab19a"
+        },
+        {
+            "type": "java",
             "name": "palindraomeusingrecursion",
             "request": "launch",
             "mainClass": "palindraomeusingrecursion",
